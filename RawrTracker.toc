@@ -1,0 +1,17 @@
+## Interface: 30100
+
+## Title: Rawr Tracker
+## Notes: Tracks gear and character data for use with Rawr
+## Author: Quaiche
+## Version: @project-version@
+## X-Category: Bags & Inventory
+## X-License: Apache 2.0
+
+## SavedVariables: RawrTrackerDB
+
+## OptionalDeps: tekDebug, tekErr
+
+LibStub.lua
+tekKonfigAboutPanel.lua
+
+RawrTracker.lua

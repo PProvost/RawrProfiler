@@ -1,0 +1,4 @@
+RawrTracker is an addon for use with the Rawr character modeling tool.
+
+More info about Rawr can be found at http://rawr.codeplex.com/
+
