@@ -8,7 +8,6 @@
 ## X-License: Apache 2.0
 
 ## SavedVariables: RawrProfilerDB
-
 ## OptionalDeps: tekDebug, tekErr
 
 LibStub.lua
